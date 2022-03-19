@@ -6,7 +6,7 @@ Tools_Dict # 字典
 Tools_EXP # 漏洞exp
 
 Tools_Information_Gathering # 信息收集
-    dirsearch # 目录扫描工具 https://github.com/maurosoria/dirsearch
+    [dirsearch](https://github.com/maurosoria/dirsearch) # 目录扫描工具 
 
 Tools_WebShell # WebShell工具
 ```
